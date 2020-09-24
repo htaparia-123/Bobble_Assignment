@@ -1,2 +1,2 @@
-# BoobleAssignmnet
+# BoobleAssignment
 Frontend Assignmnet
