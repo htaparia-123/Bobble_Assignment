@@ -1,2 +1,2 @@
 # BoobleAssignmnet
-Friendend Assignmnet
+Frontend Assignmnet
